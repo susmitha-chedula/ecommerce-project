@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Website
 
 ## 📌 Description
-A full-stack e-commerce web application built using PHP, MySQL, HTML, CSS, and JavaScript.  
+A full-stack e-commerce web application built using HTML, CSS, JavaScript, PHP, and MySQL.  
 Users can browse products, add items to cart, update quantities, and manage their shopping experience.
 
 ---
