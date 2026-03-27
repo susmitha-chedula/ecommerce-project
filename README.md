@@ -24,6 +24,16 @@ Users can browse products, add items to cart, update quantities, and manage thei
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page 1](images/home1.png)
+![Home Page 2](images/home2.png)
+
+### 🛒 Cart Page
+![Cart Page](images/cart.png)
+
+
 ## 📂 Project Structure
 - `/index.php` → Home page
 - `/pages/cart.php` → Cart functionality
