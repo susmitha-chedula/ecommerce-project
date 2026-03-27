@@ -44,18 +44,17 @@ nav a, .logout-button {
     display: inline-block;
 }
 
-nav a:hover, .logout-button:hover {
+nav a:hover {
     text-decoration: underline;
 }
 
 .logout-button {
     background-color: #ff5733;
-    color: white;
-    border: none;
-    padding: 8px 12px;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+    color: white !important;
+    padding: 8px 14px;
+    border-radius: 6px;
+    text-decoration: none;
+    display: inline-block;
 }
 
 .logout-button:hover {
